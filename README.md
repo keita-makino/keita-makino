@@ -2,6 +2,12 @@
 
 [![](https://raw.githubusercontent.com/keita-makino/keita-makino/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### Scholar
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=a7TR7pIAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5080-2843)
+[![Dryad](https://img.shields.io/badge/Dryad-1A3A3A?style=for-the-badge)](https://datadryad.org/author/0000-0001-5080-2843)
+
 ### 3 Revolutions Future Mobility Program
 [![3RFM](https://img.shields.io/badge/3rfm--its--davis-002855?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3rfm-its-davis)
 
@@ -25,3 +31,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
+![Qualtrics](https://img.shields.io/badge/Qualtrics-00B4EF?style=for-the-badge&logo=qualtrics&logoColor=white)
